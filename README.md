@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phil
-- 👀 I’m interested in Sneakers, Business, Marketing, Entreprenuership Web Dev, Crypto, and much more
+- 👀 I’m interested in Sneakers, Business, Marketing, Entreprenuership Web Dev, Crypto, Web 3 and much more
 - 🌱 I’m currently learning HTML CSS JS and going to a coding bootcamp soon
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me 
