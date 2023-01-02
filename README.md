@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sneakers, Business, Marketing, Entreprenuership Web Dev, Crypto, Web 3 and much more
 - 🌱 I’m currently learning HTML CSS JS and going to a coding bootcamp soon
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me 
+- 📫 How to reach me --> phil.nguy121@gmail.com
 
 <!---
 pnguyen121/pnguyen121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
