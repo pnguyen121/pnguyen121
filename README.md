@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil
 - 👀 I’m interested in Sneakers, Business, Marketing, Entreprenuership Web Dev, Crypto, Web 3 and much more
-- 🌱 I’m currently learning HTML CSS JS and going to a coding bootcamp soon
+- 🌱 I’m currently a full stack developer and building a quick portofolio site using React and Tailwind CSS
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me --> phil.nguy121@gmail.com
 
