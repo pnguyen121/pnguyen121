@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phil Nguyen</h1>
 <h3 align="center">A passionate full stack developer and entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnguyen121&label=Profile%20views&color=0e75b6&style=flat" alt="pnguyen121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pnguyen121" alt="pnguyen121" /></a> </p>
-
 - 🔭 I’m currently working on [Motivational Quotes](https://github.com/pnguyen121/Motivational_Quotes)
 
 - 🌱 I’m currently learning **TypeScript, Next, and more React**
