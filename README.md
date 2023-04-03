@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phil Nguyen</h1>
 <h3 align="center">A passionate full stack developer and entrepreneur</h3>
 
-- 🔭 I’m currently working on [Motivational Quotes](https://github.com/pnguyen121/Motivational_Quotes)
+- 🔭 I’m currently working on [TypeScript Trivia](https://github.com/pnguyen121/TypeScript_Trivia/tree/main/Typescript_Trivia)
 
 - 🌱 I’m currently learning **TypeScript, Next, and more React**
 
