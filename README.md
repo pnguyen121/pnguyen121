@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [TypeScript Trivia](https://github.com/pnguyen121/TypeScript_Trivia/tree/main/Typescript_Trivia)
 
-- 🌱 I’m currently learning **TypeScript, Next, and more React**
+- 🌱 I’m currently learning **Swift && Kotlin**
 
 - 👯 I’m looking to collaborate on **Anything & Everything**
 
 - 👨‍💻 Most of my projects are available at [https://pnguyen121.github.io/portfolio_phil/#/](https://pnguyen121.github.io/portfolio_phil/#/)
 
-- 💬 Ask me about **react, html, CSS, web3, Business**
+- 💬 Ask me about **React.js, Mobile Dev, Sneakers, Business**
 
 - 📫 How to reach me **phil.nguy121@gmail.com**
 
