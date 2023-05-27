@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phil Nguyen</h1>
 <h3 align="center">A passionate full stack developer and entrepreneur</h3>
 
-- 🔭 I’m currently working on [TypeScript Trivia](https://github.com/pnguyen121/TypeScript_Trivia/tree/main/Typescript_Trivia)
+- 🔭 I’m currently working on [Kotlin Tippy App](https://github.com/pnguyen121/TippyApp)
 
 - 🌱 I’m currently learning **Swift && Kotlin**
 
